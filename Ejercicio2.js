@@ -17,4 +17,4 @@ else if (numero < 0){
 }
 else {
     console.log(`Lo que ingresaste no es un numero`)}
-    
+
